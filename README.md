@@ -1,2 +1,5 @@
 # Bill-of-Sale-Generator
-Programa gerador de notas fiscais, utiliza-se de um login fictício com informações fictícias em uma planilha para preenchimento através do Selenium
+Programa gerador de notas fiscais
+NotasEmitir.xlsx -> Excel com dados fictícios para preenchimento das notas.
+login.html -> Página que recebe um login e senha quaisquer para avançar para index.html
+index.html -> Página para preencher os dados conforme o NotasEmitir.xlsx e gerar as notas.
